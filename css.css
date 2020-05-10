@@ -50,7 +50,7 @@ header {
 
 .maincontainer {
   padding: 150px 0 100px 0;
-  background-image: url('../gambar/1.jpg');
+  background-image: url('../1.jpg');
   background-size: cover;
   height: 200px;
   width: 100%;
@@ -176,7 +176,7 @@ header {
 .lingkaran1 {
 	width: 200px;
 	height: 200px;
-	background-image: url('../gambar/person1.png');
+	background-image: url('../person1.png');
 	background-size: cover;
 	border-radius: 50%;
 	text-align: center;
@@ -186,7 +186,7 @@ header {
 .lingkaran2 {
 	width: 200px;
 	height: 200px;
-	background-image: url('../gambar/person2.png');
+	background-image: url('../person2.png');
 	background-size: cover;
 	border-radius: 50%;
 	text-align: center;
@@ -196,7 +196,7 @@ header {
 .lingkaran3 {
 	width: 200px;
 	height: 200px;
-	background-image: url('../gambar/person3.png');
+	background-image: url('../person3.png');
 	background-size: cover;
 	border-radius: 50%;
 	text-align: center;
