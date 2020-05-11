@@ -197,7 +197,7 @@ header {
 .lingkaran2 {
 	width: 200px;
 	height: 200px;
-	background-image: url('person2.png');
+	background-image: url('Person2.png');
 	background-size: cover;
 	border-radius: 50%;
 	text-align: center;
@@ -207,7 +207,7 @@ header {
 .lingkaran3 {
 	width: 200px;
 	height: 200px;
-	background-image: url('person3.png');
+	background-image: url('Person3.png');
 	background-size: cover;
 	border-radius: 50%;
 	text-align: center;
