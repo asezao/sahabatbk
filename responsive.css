@@ -102,5 +102,11 @@
   		letter-spacing: 3px;
 
 	}
+	
+	.maincontainer h2 {
+		font-size: 25px;
+		margin-top: -30px;
+		letter-spacing: 2px;
+	}
 
 }
