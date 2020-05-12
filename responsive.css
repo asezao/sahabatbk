@@ -79,5 +79,9 @@
   	.menu-icon {
   		display: inline-block;
   	}
+	
+	header {
+		width: 100%;
+	}
 
 }
