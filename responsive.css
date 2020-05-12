@@ -78,11 +78,11 @@
 
   	.menu-icon {
   		display: inline-block;
-		float: right;
   	}
 	
 	header {
-		width: 670px;
+		width: 100%;
+		padding-right: 5px;
 	}
 
 }
