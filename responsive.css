@@ -89,5 +89,18 @@
 	.container{
 		width: 90%;
 	}
+	
+	.judul {
+  		font-family: "bebas neue";
+  		color: white;
+	}
+
+	.maincontainer h1 {
+		text-align: center;
+		font-size: 80px;
+		margin-top: -30px;
+  		letter-spacing: 3px;
+
+	}
 
 }
