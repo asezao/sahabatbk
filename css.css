@@ -12,6 +12,10 @@ header {
   position: fixed;
 }
 
+.container {
+  width: 100%;
+}
+
 .hulu-kenca {
 	float: left;
 
