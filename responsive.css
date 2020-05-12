@@ -83,6 +83,11 @@
 	header {
 		width: 100%;
 		padding-right: 5px;
+		padeding-bottom: 5px;
+	}
+	
+	.container{
+		width: 90%;
 	}
 
 }
