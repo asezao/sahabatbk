@@ -91,13 +91,13 @@
 	}
 	
 	.judul {
-  		font-family: "bebas neue";
+  		font-family: "arial";
   		color: white;
 	}
 
 	.maincontainer h1 {
 		text-align: center;
-		font-size: 80px;
+		font-size: 50px;
 		margin-top: -30px;
   		letter-spacing: 3px;
 
