@@ -77,7 +77,7 @@
   	}
 
   	.menu-icon {
-  		display: none;
+  		display: inline-block;
   	}
 	
 	header {
